@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>eu.interopehrate</groupId>
-    <artifactId>S-R2D-SM</artifactId>
+    <artifactId>sr2dsm</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 
     <distributionManagement>
         <repository>
